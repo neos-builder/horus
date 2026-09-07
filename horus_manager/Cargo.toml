@@ -86,7 +86,7 @@ lazy_static = "1.4"
 rayon = "1.10"
 syn = { version = "3.0", features = ["full", "visit"] }
 proc-macro2 = "1.0"
-tree-sitter = "0.26"
+tree-sitter = "0.27"
 tree-sitter-cpp = "0.23"
 notify = "8.2"
 num_cpus = "1.16"
